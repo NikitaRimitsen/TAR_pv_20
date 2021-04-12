@@ -1,0 +1,12 @@
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\bin\Debug\Pets.mdf
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\bin\Debug\Pets_log.ldf
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\bin\Debug\TAR_pv20_.exe.config
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\bin\Debug\TAR_pv20_.exe
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\bin\Debug\TAR_pv20_.pdb
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\obj\Debug\TAR_pv20_.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\obj\Debug\TAR_pv20_.Form1.resources
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\obj\Debug\TAR_pv20_.Properties.Resources.resources
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\obj\Debug\TAR_pv20_.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\obj\Debug\TAR_pv20_.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\obj\Debug\TAR_pv20_.exe
+C:\Users\nikit\source\repos\TAR_pv20_\TAR_pv20_\obj\Debug\TAR_pv20_.pdb
